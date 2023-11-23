@@ -1,7 +1,7 @@
 "use client";
 import React from "react";
 import border from "@/public/images/borderline.png";
-import toknnomicsimg from "@/public/images/toknomicsimg.png";
+import toknnomicsimg from "@/public/images/toknnomicsimg.png";
 import Image from "next/image";
 import "animate.css/animate.min.css";
 import { AnimationOnScroll } from "react-animation-on-scroll";
@@ -9,7 +9,7 @@ const Tokennomics = () => {
   const data = [
     {
       title: "Liquidity POOL",
-      value: "45%",
+      value: "93%",
       img: (
         <svg
           width="18"
